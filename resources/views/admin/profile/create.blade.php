@@ -31,7 +31,6 @@
                         <div class="col-md-10">
                             <input type="radio" name="gender" value="male">男性
 	                       	<input type="radio" name="gender" value="female">女性
-		                    <input type="radio" name="gender" value="other">その他
                         </div>
                     </div>
                     <div class="form-group row">
